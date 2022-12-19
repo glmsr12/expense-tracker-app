@@ -24,7 +24,7 @@ function IncomeExpenses() {
       <div>
         <h4>Expense</h4>
         <p id="money-minus" className="money-minus">
-          {expense}
+          ${expense}
         </p>
       </div>
     </div>
